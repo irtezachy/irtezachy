@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 <h1 align="center">My Skillset</h1>
 
 ---
@@ -62,6 +62,19 @@
   <img src="https://img.shields.io/badge/MS%20Project-217346?style=flat&logo=microsoftproject&logoColor=white"/>
   <img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white"/>
+</p>
+
+---
+
+### 🤝 Soft Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Leadership-4CAF50?style=flat&logo=googlestreetview&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Communication-03A9F4?style=flat&logo=googlechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teamwork-FF9800?style=flat&logo=googlemeet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem--Solving-9C27B0?style=flat&logo=semanticweb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-607D8B?style=flat&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Time%20Management-E91E63?style=flat&logo=clockify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Documentation%20Under%20Pressure-795548?style=flat&logo=microsoftword&logoColor=white"/>
 </p>
 
 ---
