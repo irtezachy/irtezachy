@@ -101,7 +101,7 @@
 
 ### 📂 Project & Productivity Tools
 <p align="left">
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
+  <a href="https://www.atlassian.com/software/jira/software" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank">
